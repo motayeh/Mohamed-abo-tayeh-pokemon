@@ -1,0 +1,7 @@
+.HomePage{
+    display: grid;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
